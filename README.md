@@ -9,7 +9,8 @@ In this repository, i will be doing what i am learning at udemy course called Fo
 
 ###### PT-BR
 Esse endpoint é responsável por retornar a listagem de todos os games no banco de dados.
-###### EN ## this endpoint is responsible  to return the game´s list from database
+###### EN
+this endpoint is responsible  to return the game´s list from database
 
 ###### Parametros | Params
 Nenhum | None
