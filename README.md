@@ -1,4 +1,4 @@
-## learningHowToDocumentAPI
+## learning HowTo Document an API
 ### PT-BR
 API de Games do Curso Formação Nodejs na Udemy.
 ### EN
