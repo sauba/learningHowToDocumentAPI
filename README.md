@@ -1,7 +1,7 @@
 # learning HowTo Document an API
 ###### PT-BR ## API de Games do Curso Formação Nodejs na Udemy.
 ###### EN
-In this repository, i will be doing what i am learning at udemy course called Formação Nodejs
+In this repository, i will be doing what i am learning at udemy course named Formação Nodejs
 
 #### Endpoints
 
@@ -22,6 +22,32 @@ Nenhum | None
 Caso essa resposta aconteça você receberá a listagem de games do banco de dados
 ###### EN
 In case you got this awnser you will receive a game´s list from the database
+
+```
+Exemplo | Example
+
+[
+    {
+        "id": 23,
+        "title": "Call of duty MW",
+        "year": 2019,
+        "price": 60
+    },
+    {
+        "id": 65,
+        "title": "Sea of thieves",
+        "year": 2018,
+        "price": 40
+    },
+    {
+        "id": 2,
+        "title": "Minecraft",
+        "year": 2012,
+        "price": 20
+    }
+]
+
+```
 
 ##### Falha de Autenticação | Authentication Failure - Error 401
 ###### PT-BR
