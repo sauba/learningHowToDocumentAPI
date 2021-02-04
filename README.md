@@ -108,7 +108,7 @@ In case you got this awnser it means that you are having some problem at the req
 
 ```
 {
-    "err": "Token inválido!" 
+    "err": "Credencial Inválida!" 
 }
 
 ``` 
